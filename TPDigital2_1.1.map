@@ -1,0 +1,56 @@
+MPLINK 4.45, Linker
+Linker Map File - Created Tue May 23 21:52:23 2017
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000100
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000083      
+            129 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     CONF   0x000060    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                  DISPLAY   0x00004c    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                   INICIO   0x000005    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    INTRP   0x00001c    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                 LOAD_ENV   0x00003e    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                     LOOP   0x000008    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    LOOP1   0x00005b    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    LOOP2   0x000059    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                  RETARDO   0x000057    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                 SAVE_ENV   0x00003a    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    TECLA   0x000023    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    TIMER   0x000043    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                     LOOP   0x000008    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    INTRP   0x00001c    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    TECLA   0x000023    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                 SAVE_ENV   0x00003a    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                 LOAD_ENV   0x00003e    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    TIMER   0x000043    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                  DISPLAY   0x00004c    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                  RETARDO   0x000057    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    LOOP2   0x000059    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                    LOOP1   0x00005b    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+                     CONF   0x000060    program     static C:\Users\Torce\Desktop\Nueva carpeta\TP-Digital-2\TPDigital2_1.1.asm
+
+

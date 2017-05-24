@@ -1,0 +1,7 @@
+Warning[205] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 1 : Found directive in column 1. (List)
+Warning[215] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 1 : Processor superseded by command line.  Verify processor symbol.
+Warning[205] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 2 : Found directive in column 1. (Include)
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F887.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[207] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 45 : Found label after column 1. (RLF)
+Error[122]   C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 45 : Illegal opcode (AUX_K)
+Warning[203] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2.ASM 101 : Found opcode in column 1. (MOVF)

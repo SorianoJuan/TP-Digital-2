@@ -1,0 +1,9 @@
+Warning[205] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 1 : Found directive in column 1. (List)
+Warning[205] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 2 : Found directive in column 1. (Include)
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 167 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 171 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 179 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 182 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 183 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 190 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TORCE\DESKTOP\NUEVA CARPETA\TP-DIGITAL-2\TPDIGITAL2_1.1.ASM 196 : Register in operand not in bank 0.  Ensure that bank bits are correct.
