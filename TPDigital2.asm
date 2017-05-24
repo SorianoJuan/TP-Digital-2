@@ -1,4 +1,6 @@
 List p = 16f887
+__CONFIG _XT_OSC & _WDT_OFF & _CP_OFF & _PWRTE_ON
+
 Include <p16f887.inc>
 	
 AUX_K		EQU	0x20	
