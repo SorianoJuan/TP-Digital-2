@@ -1,7 +1,18 @@
-List p = 16f887
-__CONFIG _CONFIG1, _XT_OSC & _WDT_OFF & _CP_OFF & _PWRTE_ON
+    List p = 16f887
 
-Include <p16f887.inc>
+    ; PIC16F887 Configuration Bit Settings
+
+    ; Assembly source line config statements
+
+    #include "p16f887.inc"
+
+    ; CONFIG1
+    ; __config 0x3FE4
+    __CONFIG _CONFIG1, _FOSC_INTRC_NOCLKOUT & _WDTE_OFF & _PWRTE_ON & _MCLRE_ON & _CP_OFF & _CPD_OFF & _BOREN_ON & _IESO_ON & _FCMEN_ON & _LVP_ON
+    ; CONFIG2
+    ; __config 0xFFFF
+     __CONFIG _CONFIG2, _BOR4V_BOR40V & _WRT_OFF
+	
 	
 AUX_K		EQU	0x20	
 CONT_K		EQU	0x21
