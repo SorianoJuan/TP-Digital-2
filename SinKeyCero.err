@@ -1,0 +1,9 @@
+Warning[205] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 1 : Found directive in column 1. (LIST)
+Warning[207] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 112 : Found label after column 1. (COLUMNAS)
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 174 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 178 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 186 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 189 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 190 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 197 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JUAN\DESKTOP\DIGITAL2\TP-DIGITAL-2\SINKEYCERO.ASM 203 : Register in operand not in bank 0.  Ensure that bank bits are correct.
