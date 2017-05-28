@@ -1,3 +1,10 @@
 /debug
 /nbproject
 Makefile
+*.cof
+*.err
+*.HEX
+*.lst
+*.map
+*.O
+
