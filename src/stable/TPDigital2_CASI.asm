@@ -1,5 +1,5 @@
-﻿LIST P = 16F887
-#INCLUDE <p16F887.inc>
+LIST P = 16F887
+INCLUDE <p16F887.inc>
 
 ; CONFIG1
 ; __config 0xFFE1
