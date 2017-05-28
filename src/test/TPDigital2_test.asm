@@ -106,7 +106,7 @@ TECLA
 			MOVLW		0x01
 			
 			BTFSS		PORTB_AUX, 5
-			MOVLW		0x03
+			MOVLW		0x04
 			
 			BTFSS		PORTB_AUX, 6
 			MOVLW		0x07
