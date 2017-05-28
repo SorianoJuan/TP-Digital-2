@@ -95,7 +95,9 @@ TECLA
 						
 			BANKSEL		PORTB			
 			MOVF		PORTB,0			;MOVER EL VALOR DE PORTB A PORTB_AUX
-			MOVWF		PORTB_AUX		
+			MOVWF		PORTB_AUX
+			
+			BCF		INTCON, 0		;BAJAR RBIF
 		
 			CLRW	
 			
@@ -128,8 +130,6 @@ TECLA
 						
 			MOVWF		CONTS_T			;PONGO EL VALOR DE LA TECLA EN CONTS_T
 
-			
-			BCF		INTCON, 0		;BAJAR RBIF
 			
 			
 			MOVLW		0x14
@@ -202,7 +202,7 @@ LOAD_ENV								;CARGAR EL ENTORNO
 DISPLAY									;TABLA PARA MOSTRAR NÚMERO EN DISPLAY
 			;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 			SUBLW		0x0A			;RESTO 10
-			BTFSC		STATUS, C
+			BTFSS		STATUS, C
 			CLRF		CONTS_T			;SI ES MAYOR A 9, LO PONGO EN CERO
 			;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 			
